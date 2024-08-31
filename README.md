@@ -1,3 +1,16 @@
+## Useful Commands
+- `ionic serve`: Serve the application in a web browser.
+- `ionic build`: Build the web assets for the application.
+- `npx cap sync`: Sync the web assets and Capacitor plugins to the native platforms.
+- `npx cap open ios`: Open the iOS project in Xcode.
+- `npx cap open android`: Open the Android project in Android Studio.
+- `npm run lint`: Runs ESLint to check and report any linting issues.
+- `npm run lint:fix`: Fixes ESLint errors automatically.
+- `npm run format`: Formats code using Prettier.
+- `npm run spellcheck`: Checks for spelling errors using cspell.
+- `npm run fix-all`: Fixes spelling errors, formats code, and applies ESLint fixes.
+
+
 # Software Requirements Specification (SRS) for Fresh Juice App
 
 ## 1. Introduction

@@ -1,0 +1,9 @@
+node_modules/
+android/
+cypress/
+ios/
+public/
+vite.config.ts
+capacitor.config.ts
+cypress.config.ts
+src/setupTests.ts
